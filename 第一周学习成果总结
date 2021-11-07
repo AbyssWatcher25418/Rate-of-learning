@@ -1,3 +1,6 @@
+
+
+
 第一周学习成果总结
 学员 计算机类m2103 林玮琦
 Mentor 黄文衎
@@ -13,7 +16,7 @@ Mentor 黄文衎
 前期学习难度认识：相对容易（与C语法比较类似）
 
 与C语法部分差别总结：
-① 例如：(C语言)String args[ ]    (Java)String[ ] args （虽采用C语言仍可编译，但在有些方面可能会有歧义）
+① 例如：(C语言)String args[ ]    (Java)String[ ] args (虽采用C语言仍可编译，但在有些方面可能会有歧义)
 ② 例如：(C语言)printf    (Java)System.out.printf (主要采用面向对象思想)
 ③	例如：(C语言)for、while、do while (Java)  新增for(声明语句 : 表达式)以便捷读取并输出数组的值
 ④	Java在String上新增StringBuffer 与 StringBuilder类型
@@ -26,3 +29,5 @@ Mentor 黄文衎
 ②Git基础、Git分支、服务器上的Git
 
 备注：由于第一周其它学习任务比较繁重，例如周六与周日的武汉工程大学新生赛的热身赛与正式赛的赛前准备与赛时时间占用与精力占用，在Java上的学习可能有些滞后，因此争取在下周加快学习进度。
+
+
