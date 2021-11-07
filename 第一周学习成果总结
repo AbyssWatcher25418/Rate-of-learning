@@ -1,0 +1,28 @@
+第一周学习成果总结
+学员 计算机类m2103 林玮琦
+Mentor 黄文衎
+
+主要学习内容：Java基础语法
+
+学习进度：
+ Java 简介     Java 开发环境配置  Java 基础语法      Java 对象和类          Java 基本数据类型  Java 变量类型  Java 修饰符        Java 运算符
+ Java 循环结构  Java 条件语句     Java switch.case  Java Number&Math类     Java Character类  Java String类 Java StringBuffer  Java 数组
+ Java 日期时间  Java 正则表达式    Java 方法         Java Stream、File、IO  Java Scanner类    Java 异常处理
+
+大致语法学习进度：40%
+前期学习难度认识：相对容易（与C语法比较类似）
+
+与C语法部分差别总结：
+① 例如：(C语言)String args[ ]    (Java)String[ ] args （虽采用C语言仍可编译，但在有些方面可能会有歧义）
+② 例如：(C语言)printf    (Java)System.out.printf (主要采用面向对象思想)
+③	例如：(C语言)for、while、do while (Java)  新增for(声明语句 : 表达式)以便捷读取并输出数组的值
+④	Java在String上新增StringBuffer 与 StringBuilder类型
+⑤	且Java严格规定变量类型所对应的字节大小，新增byte(类似C语言的char)，并且严格规定short为16位 2字节等
+⑥	……
+
+学习反思：由于C语言初学不久，新学Java可能会出现语法混淆的情况，因此需更加细心地加以严格区分，同时留意Java的语言特性，以C语法来辅助Java语法的学习。
+
+下周预期学习目标：①Java基础语法与Java ArrayList、Java LinkedList、Java Hashset、Java HashMap、Java Iterator、Java Object、Java MySQL链接、Java 文档注释
+②Git基础、Git分支、服务器上的Git
+
+备注：由于第一周其它学习任务比较繁重，例如周六与周日的武汉工程大学新生赛的热身赛与正式赛的赛前准备与赛时时间占用与精力占用，在Java上的学习可能有些滞后，因此争取在下周加快学习进度。
