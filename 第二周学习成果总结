@@ -1,0 +1,30 @@
+第二周学习成果总结
+
+学员 计算机类m2103 林玮琦
+Mentor 黄文衎
+
+主要学习内容：Java高级语法、Git基础入门
+学习进度：
+Java 面向对象
+Java 继承Java Override/OverloadJava 多态Java 抽象类Java 封装Java 接口Java 枚举Java 包(package)
+Java 高级教程
+Java 数据结构Java 集合框架Java ArrayListJava LinkedListJava HashSetJava HashMapJava IteratorJava ObjectJava 泛型 Java 多线程编程 Java 网络编程Java My 
+大致语法学习进度：Java语法90% , Git 基础 60%  
+学习难度认识：一般（有较多函数用法(java)与命令用法（Git）需要记忆）
+
+Java高级语法总结：
+①	部分高级语法与C++有类似的地方，例如链表、哈希表、Iterator迭代器等数据结构
+②	+网络编程与接口相关用法
+③	……
+
+Git 基础总结
+①	基本顺序为 通过git add暂存文件，再通过commit提交
+②	有一系列如.gitignore、撤销、合并等指令操作
+③	还能通过branch 与 checkout 进行分支操作
+④	……
+
+学习反思：已经将菜鸟教程上的Java大多数高级语法了解并学习，但还未进行熟练运用（由于下周末的夜莺杯编程比赛需要准备，对Java的进一步熟悉的进程还需暂缓）Git基础入门已学习到分支，还剩《服务器上的Git》一章。 
+
+下周预期学习目标：①将Git剩余基础用法内容学习完毕②针对Uni后端考核任务进行进一步学习
+
+备注：由于下一周有夜莺杯编程比赛，需要进行一定程度的赛前准备，能够腾出来学习新知识（java、git）的时间较为有限（于是我在C语言课上带了笔记本来卷java和git[手动doge]）。
